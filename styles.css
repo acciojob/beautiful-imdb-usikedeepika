@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+.moviePic {
+  height: 400px; /* Set the height */
+  width: 300px; /* Set the width */
+  opacity: 0.9; /* Slight transparency for a dynamic look */
+  border-radius: 50%; /* Adds smooth corners */
+}
+
+.movieDetail {
+  position: relative;
+  top: 20px; /* Positioning the text below the image */
+  width: 60%; /* Text block width */
+  text-align: center; /* Center-align the text */
+  font-size: 18px; /* Text size */
+ 
+}
